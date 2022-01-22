@@ -1,3 +1,4 @@
 {
-  "python.formatting.provider": "autopep8"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.templating": true
 }
